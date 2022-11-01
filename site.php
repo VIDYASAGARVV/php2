@@ -11,10 +11,10 @@
 $title ="My First Post";
 $author ="Sagar";
 $wordCount=400;
-include "article-header.php"
+include "header.php"
  ?>
  <?php
-include "useful-tools.php";
+include "tools.php";
 echo $feetInMile;
   ?>
  <p>hello world<p>
